@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: PwbCalib
+Version: 1.0
+Summary: Package to graph the raw results from PWB calibration chips, and the insertion loss at select wavelength.
+Author: Tenna Yuan
+Author-email: tenna@student.ubc.ca
+Requires-Dist: setuptools>=70.2.0
+Requires-Dist: numpy>=1.26.4
+Requires-Dist: matplotlib>=3.8.3
+Requires-Dist: pandas>=2.1.3
+Requires-Dist: PyYAML>=6.0.1
+Requires-Dist: pyPDF2>=3.0.1
+Requires-Dist: reportlab>=4.0.7
+Requires-Dist: requests>=2.31.0

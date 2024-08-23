@@ -1,0 +1,5 @@
+# saved inside data folder, i.e. 1550_TE
+
+devices:
+- wavelength: 1550
+  channel: "channel_1"

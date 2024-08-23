@@ -1,0 +1,6 @@
+setup.py
+PwbCalib.egg-info/PKG-INFO
+PwbCalib.egg-info/SOURCES.txt
+PwbCalib.egg-info/dependency_links.txt
+PwbCalib.egg-info/requires.txt
+PwbCalib.egg-info/top_level.txt
